@@ -1,0 +1,14 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "version": "1.0",
+  "description": "asana plugin for Franz 5",
+  "main": "index.js",
+  "author": "Abdulkarim Khormi <akmalkady@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/meetfranz/recipe-asana",
+  "config": {
+    "serviceURL": "https://asana.com/",
+    "hasIndirectMessages": true
+  }
+}
