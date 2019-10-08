@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Abdulkarim Khormi <akmalkady@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-asana",
+  "repository": "https://github.com/akmalkady/recipe-asana",
   "config": {
     "serviceURL": "https://asana.com/",
     "hasIndirectMessages": true
